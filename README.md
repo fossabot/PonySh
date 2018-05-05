@@ -1,11 +1,12 @@
-# The Pony Information Project [![Generic badge](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PonySh.svg?branch=master)](https://travis-ci.org/harens/PonySh) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+# The Pony Information Project 
+[![Generic badge](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PonySh.svg?branch=master)](https://travis-ci.org/harens/PonySh) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
 Visit the 'Creative Project' website [here](https://harens.github.io/CreativeProject/)
 
 ### About
 The Pony Information Project aims to educate all about ponies, and it is now available from the terminal!
 
-![ThePonyInformationProject in the terminal](https://github.com/harens/ThePonyInformationProject/blob/Shell-Edition/PonyTerminal.png)
+![ThePonyInformationProject in the terminal](https://github.com/harens/PonySh/blob/master/PonyTerminal.png)
 ### Installation
 #### Unix-like Systems
 Clone the repository
