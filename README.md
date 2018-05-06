@@ -1,6 +1,6 @@
 ![Logo](https://github.com/harens/PonySh/blob/master/Logo.png)
 
-[![Generic badge](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PonySh.svg?branch=master)](https://travis-ci.org/harens/PonySh) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+[![Creative Project](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/) [![Build Status](https://travis-ci.org/harens/PonySh.svg?branch=master)](https://travis-ci.org/harens/PonySh) [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
 Visit the 'Creative Project' website [here](https://harens.github.io/CreativeProject/)
 
