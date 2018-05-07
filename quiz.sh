@@ -1,5 +1,6 @@
 #!/bin/bash
 # Quiz with four questions, a scoring system, and a comment depending on the score
+# Menu numbers at the end
 cat << "EOF"
  ____        _
 / __ \      (_)
