@@ -40,6 +40,7 @@ cd
 rm -rf PonySh
 ```
 ### How to contribute [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/harens/PonySh/graphs/commit-activity)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FPonySh.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FPonySh?ref=badge_shield)
 Please see the [Code of Conduct](https://github.com/harens/PonySh/blob/master/CODE_OF_CONDUCT.md), and feel free to help out with any issues.
 
 I thank you in advance for your suggestions and changes :+1:
@@ -50,3 +51,6 @@ I thank you in advance for your suggestions and changes :+1:
 
 ### License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/harens/PonySh/blob/master/LICENSE)
 ThePonyInformationProject is licensed under the [GNU General Public License v3.0](https://github.com/harens/PonySh/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FPonySh.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FPonySh?ref=badge_large)
